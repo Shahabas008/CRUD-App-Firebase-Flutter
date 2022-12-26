@@ -1,16 +1,10 @@
-# crud_tutorial
+CRUD APP
 
-A new Flutter project.
+This app is truly for the beginners on firebase and flutter.
 
-## Getting Started
+Initially create an account in firebase and connect the app to the firebase. You can read the tutorial here https://firebase.google.com/docs/android/setup
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Firebase is one of the most popular BaaS used in mobile development. It offers a variety of services for mobile development, one of which we will be discussing in this article — Firebase Firestore. Firestore allows you to upload and retrieve data with very short and simple commands.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I have built this app to demonstrate Firestore CRUD ( Create Read Update Delete) operations.
